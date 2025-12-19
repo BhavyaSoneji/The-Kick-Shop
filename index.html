@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JS E-Commerce Website</title>
+    <link rel="stylesheet" href="./src/Styles/style.css" />
+    <link rel="stylesheet" href="./src/Styles/NavBar.css" />
+    <link rel="stylesheet" href="./src/Styles/Product.css" />
+    <link rel="stylesheet" href="./src/Styles/ProductModal.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- NAV BAR -->
+    <nav class="nav-container"></nav>
+    <!-- End Nav Bar -->
+    <main class="main-section">
+      <div class="overlay"></div>
+
+      <!-- Slider Section -->
+      <section class="slider">
+        <!-- Slider Images Section -->
+        <div class="list">
+          <div class="item active">
+            <img src="/assets/slider1.jpg" alt="slider-1 image" />
+            <div class="content active"><p>TOP Sneakers Brands</p></div>
+          </div>
+          <div class="item">
+            <img src="/assets/slider2.jpg" alt="slider-2 image" />
+            <div class="content"><p>NIKE</p></div>
+          </div>
+          <div class="item">
+            <img src="/assets/slider3.jpg" alt="slider-3 image" />
+            <div class="content"><p>Adidas</p></div>
+          </div>
+          <div class="item">
+            <img src="/assets/slider4.jpg" alt="slider-4 image" />
+            <div class="content"><p>NEW BALANCE</p></div>
+          </div>
+          <div class="item">
+            <img src="/assets/slider5.jpg" alt="slider-5 image" />
+            <div class="content"><p>PUMA</p></div>
+          </div>
+        </div>
+        <!-- End Slider Images Section -->
+
+        <!-- Buttons Section  -->
+        <div class="buttons">
+          <button id="prev">&lt;</button>
+          <button id="next">></button>
+        </div>
+        <!-- End Buttons Section  -->
+
+        <!-- Dots Section  -->
+        <div class="dots">
+          <ul class="dots-list">
+            <li class="active"></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </div>
+        <!-- End Dots Section  -->
+      </section>
+      <!-- End Slider Section -->
+
+      <!-- Hero Section -->
+      <section class="hero-section">
+        <div class="discount-section">
+          <div class="discount-container">
+            <div class="discount-details">
+              <p class="discount-title">NEW YEAR SALE</p>
+              <h1 class="discount-heading">Get And Extra 50% Off</h1>
+              <button class="btn-btn-black">Shop Now</button>
+            </div>
+            <div class="discount-img">
+              <img src="./assets/JORDAN+FLIGHT+COURT.avif" alt="" />
+            </div>
+          </div>
+          <div class="discount-container">
+            <div class="discount-details">
+              <p class="discount-title">NEW YEAR SALE</p>
+              <h1 class="discount-heading">Get And Extra 50% Off</h1>
+              <button class="btn-btn-black">Shop Now</button>
+            </div>
+            <div class="discount-img">
+              <img src="./assets/JORDAN+LUKA+.77+PF.avif" alt="" />
+            </div>
+          </div>
+          <div class="discount-container">
+            <div class="discount-details">
+              <p class="discount-title">NEW YEAR SALE</p>
+              <h1 class="discount-heading">Get And Extra 50% Off</h1>
+              <button class="btn-btn-black">Shop Now</button>
+            </div>
+            <div class="discount-img">
+              <img src="./assets/WMNS+AIR+JORDAN+4+RM.avif" alt="" />
+            </div>
+          </div>
+        </div>
+        <div class="online-shoping-section">
+          <div class="shopping-container">
+            <i class="icon fa-solid fa-truck-fast"></i>
+            <div class="shoping-details">
+              <h2 class="heading">WorldWide Shipping</h2>
+              <p class="content">for orders above ₹1000</p>
+            </div>
+          </div>
+          <div class="shopping-container">
+            <i class="icon fa-solid fa-rotate"></i>
+            <div class="shoping-details">
+              <h2 class="heading">Easy 30 Days Return</h2>
+              <p class="content">Return in 15 Days</p>
+            </div>
+          </div>
+          <div class="shopping-container">
+            <i class="icon fa-solid fa-hand-holding-dollar"></i>
+            <div class="shoping-details">
+              <h2 class="heading">Money Back Guarantee</h2>
+              <p class="content">Money Back within 30-Days</p>
+            </div>
+          </div>
+          <div class="shopping-container">
+            <i class="icon fa-solid fa-headset"></i>
+            <div class="shoping-details">
+              <h2 class="heading">Easy Online Support</h2>
+              <p class="content">24/7 Any Time Supoort</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Hero Section -->
+
+      <!-- Home Shop Section -->
+      <section class="home-products-section">
+        <div class="home-products-container">
+          <div class="common-heading">The Sneaker Store</div>
+          <section class="container">
+            <div class="product-container"></div>
+          </section>
+        </div>
+      </section>
+
+      <!-- Product Temeplete  -->
+      <template class="product-card-template">
+        <div class="product-card-container" id="cardValue">
+          <span class="product-type"></span>
+          <div class="product-img-container">
+            <img src="" alt="" class="product-img" />
+          </div>
+          <h3 class="product-name"></h3>
+          <p class="product-rating"></p>
+          <!-- <p class="product-description"></p> -->
+          <div class="product-priceing">
+            <p class="product-selling-price"></p>
+            <p class="product-orignal-price"></p>
+          </div>
+          <div class="product-stock-container">
+            <p class="product-stock-text">Total Available Stock :</p>
+            <p class="product-stock"></p>
+          </div>
+          <!-- <div class="product-qty-container">
+            <p class="qty-text">Quantity(Pieces):</p>
+          </div> -->
+          <div class="btn-container">
+            <button class="cart-btn">
+              <i class="fa-solid fa-bag-shopping"></i>Add To Cart
+            </button>
+            <button class="wishlist-btn">
+              <i class="fa-solid fa-heart"></i>Wishlist
+            </button>
+          </div>
+        </div>
+      </template>
+      <!-- End Product Temeplete  -->
+
+      <button class="btn-view-all btn-btn-black">View All</button>
+      <!-- End Home Shop Section -->
+
+      <!-- Animation Shop -->
+      <section class="main-animation-section">
+        <section class="animated-shop">
+          <div class="animated-img-container">
+            <img
+              src="assets/Animation-images/NIKE+DUNK+LOW+RETRO+SE.jpg"
+              alt="Main-image-1"
+              class="animation_img1"
+            />
+            <img
+              src="assets/Animation-images/NIKE+FIELD+GENERAL.jpg"
+              alt="image-left-top"
+              class="animation_img2"
+            />
+            <img
+              src="assets/Animation-images/NIKE+WAFFLE+DEBUT.jpg"
+              alt="image-left-bottom"
+              class="animation_img3"
+            />
+            <img
+              src="assets/Animation-images/NIKE+AIR+MAX+1+ESS.jpg"
+              alt="image-right-top"
+              class="animation_img4"
+            />
+            <img
+              src="assets/Animation-images/custom-nike-air-force-1-high.avif"
+              alt="image-right-bottom"
+              class="animation_img5"
+            />
+          </div>
+          <div class="animation-section-details">
+            <p class="heading">NEW BRANDS</p>
+            <h2 class="title">Top Sneaker Picks</h2>
+            <p class="description">
+              Top brands showcase innovative, stylish new sneaker collections
+              blending performance, comfort, and high-fashion design.
+            </p>
+            <div>
+              <button class="btn-btn-black">Shop Women</button>
+              <button class="btn-btn-black">Shop Men</button>
+            </div>
+          </div>
+        </section>
+      </section>
+
+      <!-- End Catergory Section  -->
+      <footer class="footer"></footer>
+    </main>
+
+    <!-- Product Details Modal Include -->
+    <!--#include file="src/Components/ProductModal.html" -->
+    <div id="product-modal" class="product-modal" style="display:none;">
+      <div class="product-modal-content">
+        <span class="product-modal-close">&times;</span>
+        <img class="modal-product-img" src="" alt="Product Image" />
+        <h2 class="modal-product-name"></h2>
+        <p class="modal-product-type"></p>
+        <p class="modal-product-rating"></p>
+        <p class="modal-product-description"></p>
+        <div class="modal-product-pricing">
+          <span class="modal-product-selling-price"></span>
+          <span class="modal-product-original-price"></span>
+        </div>
+        <p class="modal-product-stock"></p>
+      </div>
+    </div>
+    <!-- End Product Details Modal Include -->
+
+    <script type="module" src="./src/Services/main.js"></script>
+    <script type="module" src="./src/Services/AddToCart.js"></script>
+    <script type="module" src="./src/Services/ProductModal.js"></script>
+    <script type="module">
+    document.addEventListener('DOMContentLoaded', () => {
+      // Initialize language switcher in navbar
+      addLanguageSwitcherToNavbar();
+    });
+  </script>
+  </body>
+  <script type="module">
+    import { NavBar } from "./src/Services/NavBar.js";
+    document.querySelector(".nav-container").innerHTML = NavBar();
+    import { model } from "./src/Services/HomeProducts.js";
+    document.querySelector("#product-modal").innerHTML = model();
+    
+    document.querySelector(".dropdown-menu").addEventListener('click',(e)=>{
+      document.location.href="./ProductsPage.html";
+    });
+    
+    
+    import { footer } from "./src/Services/Footer.js";
+    document.querySelector(".footer").innerHTML = footer;
+    const hamburger = document.querySelector(".hamburger");
+    const navLinks = document.querySelector(".flex-nav-link");
+    const overlay = document.querySelector(".overlay");
+
+    hamburger.addEventListener("click", () => {
+      navLinks.classList.toggle("active");
+      overlay.classList.toggle("active");
+    });
+
+    overlay.addEventListener("click", () => {
+      navLinks.classList.remove("active");
+      overlay.classList.remove("active");
+    });
+
+    document.querySelector(".cart").addEventListener("click", () => {
+      document.location.href = "./AddToCartPage.html";
+    });
+    document.querySelector(".wishlist").addEventListener("click", () => {
+      document.location.href = "./WishlistPage.html";
+    });
+    document.querySelector(".logo").addEventListener("click", () => {
+      document.location.href = "./index.html";
+    });
+    document.querySelector(".btn-view-all").addEventListener("click", () => {
+      document.location.href = "./ProductsPage.html";
+    });
+
+  </script>
+</html>

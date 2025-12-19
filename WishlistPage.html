@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Wishlist</title>
+    <link rel="stylesheet" href="./src/Styles/wishlist.css" />
+    <link rel="stylesheet" href="./src/Styles/NavBar.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- NAV BAR -->
+    <nav class="nav-container"></nav>
+    <!-- End Nav Bar -->
+    <main>
+      <div class="overlay"></div>
+
+      <!-- Show Wishlist -->
+      <section class="main-section-wishlist">
+        <div class="container">
+          <h1 class="wishlist-heading">My Wishlist</h1>
+          <section class="wishlist-products"></section>
+        </div>
+      </section>
+      <!-- Product Wishlist Tempelate -->
+      <template id="wishlist-product-template">
+        <div class="product-card-container" id="cardValue">
+          <span class="product-type"></span>
+          <div class="product-img-container">
+            <img src="" alt="" class="product-img" />
+          </div>
+          <h4 class="product-name"></h4>
+          <div class="product-priceing">
+            <p class="product-selling-price"></p>
+            <p class="product-orignal-price"></p>
+          </div>
+          <div class="product-stock-container">
+            <p class="product-stock-text">Available Stock :</p>
+            <p class="product-stock"></p>
+          </div>
+          <div class="wishlist-btn-container">
+            <button class="btn-btn-black btn-add-to-cart">
+              <i class="fa-solid fa-bag-shopping"></i>Add To Cart
+            </button>
+            <button class="btn-btn-red btn-remove">
+              <i class="fa-solid fa-trash"></i>Remove
+            </button>
+          </div>
+        </div>
+      </template>
+      <!-- End Product Wishlist Tempelate -->
+      <!-- End Show Wishlist -->
+
+      <!-- Footer Section  -->
+      <footer class="footer"></footer>
+      <!-- Footer Section  -->
+    </main>
+  </body>
+  <script type="module" src="./src/Services/GetWishlistProducts.js"></script>
+  <script type="module" src="./src/Services/RemoveWishlistProduct.js"></script>
+  <script type="module">
+    import { NavBar } from "./src/Services/NavBar.js";
+    document.querySelector(".nav-container").innerHTML = NavBar();
+
+    const logo = document.querySelector(".logo");
+    logo.addEventListener("click", () => {
+      window.location.href = "index.html";
+    });
+
+    import { footer } from "./src/Services/Footer.js";
+    document.querySelector(".footer").innerHTML = footer;
+
+    const hamburger = document.querySelector(".hamburger");
+    const navLinks = document.querySelector(".flex-nav-link");
+    const overlay = document.querySelector(".overlay");
+
+    hamburger.addEventListener("click", () => {
+      navLinks.classList.toggle("active");
+      overlay.classList.toggle("active");
+    });
+
+    overlay.addEventListener("click", () => {
+      navLinks.classList.remove("active");
+      overlay.classList.remove("active");
+    });
+
+    document.querySelector(".cart").addEventListener("click", () => {
+      document.location.href = "./AddToCartPage.html";
+    });
+
+    import { DropDownEvent } from "./src/Services/GetShopProducts.js";
+    DropDownEvent();
+  </script>
+</html>

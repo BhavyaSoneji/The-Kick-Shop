@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./src/Styles/NavBar.css" />
+    <link rel="stylesheet" href="./src/Styles/shop.css" />
+    <link rel="stylesheet" href="./src/Styles/Product.css" />
+    <link rel="stylesheet" href="./src/Styles/ProductModal.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <!-- NAV BAR -->
+    <nav class="nav-container"></nav>
+    <!-- End Nav Bar -->
+    <!-- Filter Button -->
+    <div class="filter-btn-container">
+      <button class="filter-btn">
+        <i class="fa-solid fa-filter"></i>
+      </button>
+    </div>
+
+    <!-- ✅ Overlay -->
+    <div class="filter-overlay"></div>
+    <!-- End Filter Button -->
+    <main class="main-section">
+      <div class="overlay"></div>
+      <!-- SideBar Section -->
+      <section class="category-section">
+        <ul class="list-catergory">
+          <li class="list-catergory-item-men">Men</li>
+          <li class="list-catergory-item-women">Women</li>
+        </ul>
+      </section>
+      <!-- End SideBar Section -->
+
+      <!-- Products Section -->
+      <section class="products-section">
+        <!-- Products -->
+        <div class="product-container"></div>
+        <!-- End Products -->
+      </section>
+      <!-- End Products Section -->
+    </main>
+
+    <!-- Product Temeplete  -->
+    <template class="product-card-template">
+      <div class="product-card-container" id="cardValue">
+        <span class="product-type"></span>
+        <div class="product-img-container">
+          <img src="" alt="" class="product-img" />
+        </div>
+        <h3 class="product-name"></h3>
+        <p class="product-rating"></p>
+        <!-- <p class="product-description"></p> -->
+        <div class="product-priceing">
+          <p class="product-selling-price"></p>
+          <p class="product-orignal-price"></p>
+        </div>
+        <div class="product-stock-container">
+          <p class="product-stock-text">Total Available Stock :</p>
+          <p class="product-stock"></p>
+        </div>
+        <!-- <div class="product-qty-container">
+            <p class="qty-text">Quantity(Pieces):</p>
+          </div> -->
+        <div class="btn-container">
+          <button class="cart-btn">
+            <i class="fa-solid fa-bag-shopping"></i>Add To Cart
+          </button>
+          <button class="wishlist-btn">
+            <i class="fa-solid fa-heart"></i>Wishlist
+          </button>
+        </div>
+      </div>
+    </template>
+    <!-- End Product Temeplete  -->
+    <!-- Product Details Modal Include -->
+    <!--#include file="src/Components/ProductModal.html" -->
+    <!-- Product Details Modal -->
+    <div id="product-modal" class="product-modal" style="display: none"></div>
+    <!-- End Product Details Modal -->
+
+    <!-- End Product Details Modal Include -->
+    <script type="module" src="./src/Services/GetShopProducts.js"></script>
+    <script type="module" src="./src/Services/ProductModal.js"></script>
+    <script type="module">
+      import { NavBar } from "./src/Services/NavBar.js";
+      import { model } from "./src/Services/HomeProducts.js";
+      document.querySelector("#product-modal").innerHTML = model();
+      document.querySelector(".nav-container").innerHTML = NavBar();
+      // Click of category mens and womens
+
+      document.querySelector(".cart").addEventListener("click", () => {
+        document.location.href = "./AddToCartPage.html";
+      });
+      document.querySelector(".wishlist").addEventListener("click", () => {
+        document.location.href = "./WishlistPage.html";
+      });
+      document.querySelector(".logo").addEventListener("click", () => {
+        document.location.href = "./index.html";
+      });
+
+      const hamburger = document.querySelector(".hamburger");
+      const navLinks = document.querySelector(".flex-nav-link");
+      const overlay = document.querySelector(".overlay");
+
+      hamburger.addEventListener("click", () => {
+        navLinks.classList.toggle("active");
+        overlay.classList.toggle("active");
+      });
+
+      overlay.addEventListener("click", () => {
+        navLinks.classList.toggle("active");
+        overlay.classList.toggle("active");
+      });
+
+      const filterBtn = document.querySelector(".filter-btn");
+      const categorySection = document.querySelector(".category-section");
+      const filter_overlay = document.querySelector(".filter-overlay");
+      filterBtn.addEventListener("click", () => {
+        categorySection.classList.toggle("active");
+        filter_overlay.classList.toggle("active");
+        filter_overlay.addEventListener("click", () => {
+          categorySection.classList.remove("active");
+          filter_overlay.classList.remove("active");
+        });
+      });
+    </script>
+  </body>
+</html>

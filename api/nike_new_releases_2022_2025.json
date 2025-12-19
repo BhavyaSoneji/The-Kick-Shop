@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "productType": "Lifestyle",
+    "productName": "Nike Alphafly 3 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-1.png",
+    "rating": 4.0,
+    "description": "Nike Alphafly 3 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5500,
+      "originalPrice": 6600,
+      "currency": "INR"
+    },
+    "stock": 51,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 2,
+    "productType": "Air Max",
+    "productName": "Nike Pegasus 40 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-2.png",
+    "rating": 4.1,
+    "description": "Nike Pegasus 40 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6000,
+      "originalPrice": 7200,
+      "currency": "INR"
+    },
+    "stock": 52,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 3,
+    "productType": "Basketball",
+    "productName": "Nike Dunk Low Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-3.png",
+    "rating": 4.2,
+    "description": "Nike Dunk Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6500,
+      "originalPrice": 7800,
+      "currency": "INR"
+    },
+    "stock": 53,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 4,
+    "productType": "Skate",
+    "productName": "Nike Court Vision Low Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-4.png",
+    "rating": 4.3,
+    "description": "Nike Court Vision Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7000,
+      "originalPrice": 8400,
+      "currency": "INR"
+    },
+    "stock": 54,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 5,
+    "productType": "Soccer",
+    "productName": "Nike ZoomX Vaporfly Next% 2 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-5.png",
+    "rating": 4.4,
+    "description": "Nike ZoomX Vaporfly Next% 2 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7500,
+      "originalPrice": 9000,
+      "currency": "INR"
+    },
+    "stock": 55,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 6,
+    "productType": "Court",
+    "productName": "Nike Air Force 1 '07 Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-6.png",
+    "rating": 4.5,
+    "description": "Nike Air Force 1 '07 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8000,
+      "originalPrice": 9600,
+      "currency": "INR"
+    },
+    "stock": 56,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 7,
+    "productType": "Training",
+    "productName": "Nike Blazer Mid '77 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-7.png",
+    "rating": 4.6,
+    "description": "Nike Blazer Mid '77 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8500,
+      "originalPrice": 10200,
+      "currency": "INR"
+    },
+    "stock": 57,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 8,
+    "productType": "Performance",
+    "productName": "Nike SB Force 58 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-8.png",
+    "rating": 4.7,
+    "description": "Nike SB Force 58 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9000,
+      "originalPrice": 10800,
+      "currency": "INR"
+    },
+    "stock": 58,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 9,
+    "productType": "Running",
+    "productName": "Nike Air Max Pulse (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-9.png",
+    "rating": 4.8,
+    "description": "Nike Air Max Pulse \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9500,
+      "originalPrice": 11400,
+      "currency": "INR"
+    },
+    "stock": 59,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 10,
+    "productType": "Lifestyle",
+    "productName": "Nike Zoom Vomero 17 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-10.png",
+    "rating": 4.9,
+    "description": "Nike Zoom Vomero 17 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10000,
+      "originalPrice": 12000,
+      "currency": "INR"
+    },
+    "stock": 60,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 11,
+    "productType": "Air Max",
+    "productName": "Nike Phantom GX Elite (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-11.png",
+    "rating": 5.0,
+    "description": "Nike Phantom GX Elite \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10500,
+      "originalPrice": 12600,
+      "currency": "INR"
+    },
+    "stock": 61,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 12,
+    "productType": "Basketball",
+    "productName": "Nike Mercurial Vapor 15 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-12.png",
+    "rating": 3.9,
+    "description": "Nike Mercurial Vapor 15 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11000,
+      "originalPrice": 13200,
+      "currency": "INR"
+    },
+    "stock": 62,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 13,
+    "productType": "Skate",
+    "productName": "Nike Air Max 270 Futura (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-13.png",
+    "rating": 4.0,
+    "description": "Nike Air Max 270 Futura \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11500,
+      "originalPrice": 13800,
+      "currency": "INR"
+    },
+    "stock": 63,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 14,
+    "productType": "Soccer",
+    "productName": "Nike Air Huarache Craft (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-14.png",
+    "rating": 4.1,
+    "description": "Nike Air Huarache Craft \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12000,
+      "originalPrice": 14400,
+      "currency": "INR"
+    },
+    "stock": 64,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 15,
+    "productType": "Court",
+    "productName": "Nike Free RN Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-15.png",
+    "rating": 4.2,
+    "description": "Nike Free RN Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12500,
+      "originalPrice": 15000,
+      "currency": "INR"
+    },
+    "stock": 65,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 16,
+    "productType": "Training",
+    "productName": "Nike Air Zoom Structure 25 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-16.png",
+    "rating": 4.3,
+    "description": "Nike Air Zoom Structure 25 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13000,
+      "originalPrice": 15600,
+      "currency": "INR"
+    },
+    "stock": 66,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 17,
+    "productType": "Performance",
+    "productName": "Nike KD 16 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-17.png",
+    "rating": 4.4,
+    "description": "Nike KD 16 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13500,
+      "originalPrice": 16200,
+      "currency": "INR"
+    },
+    "stock": 67,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 18,
+    "productType": "Running",
+    "productName": "Nike LeBron XXI (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-18.png",
+    "rating": 4.5,
+    "description": "Nike LeBron XXI \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14000,
+      "originalPrice": 16800,
+      "currency": "INR"
+    },
+    "stock": 68,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 19,
+    "productType": "Lifestyle",
+    "productName": "Nike Zoom Freak 5 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-19.png",
+    "rating": 4.6,
+    "description": "Nike Zoom Freak 5 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14500,
+      "originalPrice": 17400,
+      "currency": "INR"
+    },
+    "stock": 69,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 20,
+    "productType": "Air Max",
+    "productName": "Nike Air Max DN8 Hyper Pink (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-20.png",
+    "rating": 4.7,
+    "description": "Nike Air Max DN8 Hyper Pink \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5000,
+      "originalPrice": 6000,
+      "currency": "INR"
+    },
+    "stock": 70,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 21,
+    "productType": "Basketball",
+    "productName": "Nike Alphafly 3 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-21.png",
+    "rating": 4.8,
+    "description": "Nike Alphafly 3 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5500,
+      "originalPrice": 6600,
+      "currency": "INR"
+    },
+    "stock": 71,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 22,
+    "productType": "Skate",
+    "productName": "Nike Pegasus 40 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-22.png",
+    "rating": 4.9,
+    "description": "Nike Pegasus 40 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6000,
+      "originalPrice": 7200,
+      "currency": "INR"
+    },
+    "stock": 72,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 23,
+    "productType": "Soccer",
+    "productName": "Nike Dunk Low Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-23.png",
+    "rating": 5.0,
+    "description": "Nike Dunk Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6500,
+      "originalPrice": 7800,
+      "currency": "INR"
+    },
+    "stock": 73,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 24,
+    "productType": "Court",
+    "productName": "Nike Court Vision Low Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-24.png",
+    "rating": 3.9,
+    "description": "Nike Court Vision Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7000,
+      "originalPrice": 8400,
+      "currency": "INR"
+    },
+    "stock": 74,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 25,
+    "productType": "Training",
+    "productName": "Nike ZoomX Vaporfly Next% 2 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-25.png",
+    "rating": 4.0,
+    "description": "Nike ZoomX Vaporfly Next% 2 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7500,
+      "originalPrice": 9000,
+      "currency": "INR"
+    },
+    "stock": 75,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 26,
+    "productType": "Performance",
+    "productName": "Nike Air Force 1 '07 Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-26.png",
+    "rating": 4.1,
+    "description": "Nike Air Force 1 '07 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8000,
+      "originalPrice": 9600,
+      "currency": "INR"
+    },
+    "stock": 76,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 27,
+    "productType": "Running",
+    "productName": "Nike Blazer Mid '77 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-27.png",
+    "rating": 4.2,
+    "description": "Nike Blazer Mid '77 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8500,
+      "originalPrice": 10200,
+      "currency": "INR"
+    },
+    "stock": 77,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 28,
+    "productType": "Lifestyle",
+    "productName": "Nike SB Force 58 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-28.png",
+    "rating": 4.3,
+    "description": "Nike SB Force 58 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9000,
+      "originalPrice": 10800,
+      "currency": "INR"
+    },
+    "stock": 78,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 29,
+    "productType": "Air Max",
+    "productName": "Nike Air Max Pulse (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-29.png",
+    "rating": 4.4,
+    "description": "Nike Air Max Pulse \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9500,
+      "originalPrice": 11400,
+      "currency": "INR"
+    },
+    "stock": 79,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 30,
+    "productType": "Basketball",
+    "productName": "Nike Zoom Vomero 17 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-30.png",
+    "rating": 4.5,
+    "description": "Nike Zoom Vomero 17 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10000,
+      "originalPrice": 12000,
+      "currency": "INR"
+    },
+    "stock": 80,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 31,
+    "productType": "Skate",
+    "productName": "Nike Phantom GX Elite (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-31.png",
+    "rating": 4.6,
+    "description": "Nike Phantom GX Elite \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10500,
+      "originalPrice": 12600,
+      "currency": "INR"
+    },
+    "stock": 81,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 32,
+    "productType": "Soccer",
+    "productName": "Nike Mercurial Vapor 15 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-32.png",
+    "rating": 4.7,
+    "description": "Nike Mercurial Vapor 15 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11000,
+      "originalPrice": 13200,
+      "currency": "INR"
+    },
+    "stock": 82,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 33,
+    "productType": "Court",
+    "productName": "Nike Air Max 270 Futura (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-33.png",
+    "rating": 4.8,
+    "description": "Nike Air Max 270 Futura \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11500,
+      "originalPrice": 13800,
+      "currency": "INR"
+    },
+    "stock": 83,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 34,
+    "productType": "Training",
+    "productName": "Nike Air Huarache Craft (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-34.png",
+    "rating": 4.9,
+    "description": "Nike Air Huarache Craft \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12000,
+      "originalPrice": 14400,
+      "currency": "INR"
+    },
+    "stock": 84,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 35,
+    "productType": "Performance",
+    "productName": "Nike Free RN Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-35.png",
+    "rating": 5.0,
+    "description": "Nike Free RN Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12500,
+      "originalPrice": 15000,
+      "currency": "INR"
+    },
+    "stock": 85,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 36,
+    "productType": "Running",
+    "productName": "Nike Air Zoom Structure 25 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-36.png",
+    "rating": 3.9,
+    "description": "Nike Air Zoom Structure 25 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13000,
+      "originalPrice": 15600,
+      "currency": "INR"
+    },
+    "stock": 86,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 37,
+    "productType": "Lifestyle",
+    "productName": "Nike KD 16 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-37.png",
+    "rating": 4.0,
+    "description": "Nike KD 16 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13500,
+      "originalPrice": 16200,
+      "currency": "INR"
+    },
+    "stock": 87,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 38,
+    "productType": "Air Max",
+    "productName": "Nike LeBron XXI (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-38.png",
+    "rating": 4.1,
+    "description": "Nike LeBron XXI \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14000,
+      "originalPrice": 16800,
+      "currency": "INR"
+    },
+    "stock": 88,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 39,
+    "productType": "Basketball",
+    "productName": "Nike Zoom Freak 5 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-39.png",
+    "rating": 4.2,
+    "description": "Nike Zoom Freak 5 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14500,
+      "originalPrice": 17400,
+      "currency": "INR"
+    },
+    "stock": 89,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 40,
+    "productType": "Skate",
+    "productName": "Nike Air Max DN8 Hyper Pink (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-40.png",
+    "rating": 4.3,
+    "description": "Nike Air Max DN8 Hyper Pink \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5000,
+      "originalPrice": 6000,
+      "currency": "INR"
+    },
+    "stock": 90,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 41,
+    "productType": "Soccer",
+    "productName": "Nike Alphafly 3 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-41.png",
+    "rating": 4.4,
+    "description": "Nike Alphafly 3 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5500,
+      "originalPrice": 6600,
+      "currency": "INR"
+    },
+    "stock": 91,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 42,
+    "productType": "Court",
+    "productName": "Nike Pegasus 40 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-42.png",
+    "rating": 4.5,
+    "description": "Nike Pegasus 40 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6000,
+      "originalPrice": 7200,
+      "currency": "INR"
+    },
+    "stock": 92,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 43,
+    "productType": "Training",
+    "productName": "Nike Dunk Low Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-43.png",
+    "rating": 4.6,
+    "description": "Nike Dunk Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6500,
+      "originalPrice": 7800,
+      "currency": "INR"
+    },
+    "stock": 93,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 44,
+    "productType": "Performance",
+    "productName": "Nike Court Vision Low Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-44.png",
+    "rating": 4.7,
+    "description": "Nike Court Vision Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7000,
+      "originalPrice": 8400,
+      "currency": "INR"
+    },
+    "stock": 94,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 45,
+    "productType": "Running",
+    "productName": "Nike ZoomX Vaporfly Next% 2 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-45.png",
+    "rating": 4.8,
+    "description": "Nike ZoomX Vaporfly Next% 2 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7500,
+      "originalPrice": 9000,
+      "currency": "INR"
+    },
+    "stock": 95,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 46,
+    "productType": "Lifestyle",
+    "productName": "Nike Air Force 1 '07 Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-46.png",
+    "rating": 4.9,
+    "description": "Nike Air Force 1 '07 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8000,
+      "originalPrice": 9600,
+      "currency": "INR"
+    },
+    "stock": 96,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 47,
+    "productType": "Air Max",
+    "productName": "Nike Blazer Mid '77 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-47.png",
+    "rating": 5.0,
+    "description": "Nike Blazer Mid '77 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8500,
+      "originalPrice": 10200,
+      "currency": "INR"
+    },
+    "stock": 97,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 48,
+    "productType": "Basketball",
+    "productName": "Nike SB Force 58 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-48.png",
+    "rating": 3.9,
+    "description": "Nike SB Force 58 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9000,
+      "originalPrice": 10800,
+      "currency": "INR"
+    },
+    "stock": 98,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 49,
+    "productType": "Skate",
+    "productName": "Nike Air Max Pulse (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-49.png",
+    "rating": 4.0,
+    "description": "Nike Air Max Pulse \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9500,
+      "originalPrice": 11400,
+      "currency": "INR"
+    },
+    "stock": 99,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 50,
+    "productType": "Soccer",
+    "productName": "Nike Zoom Vomero 17 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-50.png",
+    "rating": 4.1,
+    "description": "Nike Zoom Vomero 17 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10000,
+      "originalPrice": 12000,
+      "currency": "INR"
+    },
+    "stock": 100,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 51,
+    "productType": "Court",
+    "productName": "Nike Phantom GX Elite (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-51.png",
+    "rating": 4.2,
+    "description": "Nike Phantom GX Elite \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10500,
+      "originalPrice": 12600,
+      "currency": "INR"
+    },
+    "stock": 101,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 52,
+    "productType": "Training",
+    "productName": "Nike Mercurial Vapor 15 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-52.png",
+    "rating": 4.3,
+    "description": "Nike Mercurial Vapor 15 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11000,
+      "originalPrice": 13200,
+      "currency": "INR"
+    },
+    "stock": 102,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 53,
+    "productType": "Performance",
+    "productName": "Nike Air Max 270 Futura (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-53.png",
+    "rating": 4.4,
+    "description": "Nike Air Max 270 Futura \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11500,
+      "originalPrice": 13800,
+      "currency": "INR"
+    },
+    "stock": 103,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 54,
+    "productType": "Running",
+    "productName": "Nike Air Huarache Craft (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-54.png",
+    "rating": 4.5,
+    "description": "Nike Air Huarache Craft \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12000,
+      "originalPrice": 14400,
+      "currency": "INR"
+    },
+    "stock": 104,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 55,
+    "productType": "Lifestyle",
+    "productName": "Nike Free RN Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-55.png",
+    "rating": 4.6,
+    "description": "Nike Free RN Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12500,
+      "originalPrice": 15000,
+      "currency": "INR"
+    },
+    "stock": 105,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 56,
+    "productType": "Air Max",
+    "productName": "Nike Air Zoom Structure 25 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-56.png",
+    "rating": 4.7,
+    "description": "Nike Air Zoom Structure 25 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13000,
+      "originalPrice": 15600,
+      "currency": "INR"
+    },
+    "stock": 106,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 57,
+    "productType": "Basketball",
+    "productName": "Nike KD 16 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-57.png",
+    "rating": 4.8,
+    "description": "Nike KD 16 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13500,
+      "originalPrice": 16200,
+      "currency": "INR"
+    },
+    "stock": 107,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 58,
+    "productType": "Skate",
+    "productName": "Nike LeBron XXI (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-58.png",
+    "rating": 4.9,
+    "description": "Nike LeBron XXI \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14000,
+      "originalPrice": 16800,
+      "currency": "INR"
+    },
+    "stock": 108,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 59,
+    "productType": "Soccer",
+    "productName": "Nike Zoom Freak 5 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-59.png",
+    "rating": 5.0,
+    "description": "Nike Zoom Freak 5 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14500,
+      "originalPrice": 17400,
+      "currency": "INR"
+    },
+    "stock": 109,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 60,
+    "productType": "Court",
+    "productName": "Nike Air Max DN8 Hyper Pink (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-60.png",
+    "rating": 3.9,
+    "description": "Nike Air Max DN8 Hyper Pink \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5000,
+      "originalPrice": 6000,
+      "currency": "INR"
+    },
+    "stock": 110,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 61,
+    "productType": "Training",
+    "productName": "Nike Alphafly 3 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-61.png",
+    "rating": 4.0,
+    "description": "Nike Alphafly 3 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5500,
+      "originalPrice": 6600,
+      "currency": "INR"
+    },
+    "stock": 111,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 62,
+    "productType": "Performance",
+    "productName": "Nike Pegasus 40 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-62.png",
+    "rating": 4.1,
+    "description": "Nike Pegasus 40 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6000,
+      "originalPrice": 7200,
+      "currency": "INR"
+    },
+    "stock": 112,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 63,
+    "productType": "Running",
+    "productName": "Nike Dunk Low Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-63.png",
+    "rating": 4.2,
+    "description": "Nike Dunk Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6500,
+      "originalPrice": 7800,
+      "currency": "INR"
+    },
+    "stock": 113,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 64,
+    "productType": "Lifestyle",
+    "productName": "Nike Court Vision Low Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-64.png",
+    "rating": 4.3,
+    "description": "Nike Court Vision Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7000,
+      "originalPrice": 8400,
+      "currency": "INR"
+    },
+    "stock": 114,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 65,
+    "productType": "Air Max",
+    "productName": "Nike ZoomX Vaporfly Next% 2 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-65.png",
+    "rating": 4.4,
+    "description": "Nike ZoomX Vaporfly Next% 2 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7500,
+      "originalPrice": 9000,
+      "currency": "INR"
+    },
+    "stock": 115,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 66,
+    "productType": "Basketball",
+    "productName": "Nike Air Force 1 '07 Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-66.png",
+    "rating": 4.5,
+    "description": "Nike Air Force 1 '07 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8000,
+      "originalPrice": 9600,
+      "currency": "INR"
+    },
+    "stock": 116,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 67,
+    "productType": "Skate",
+    "productName": "Nike Blazer Mid '77 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-67.png",
+    "rating": 4.6,
+    "description": "Nike Blazer Mid '77 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8500,
+      "originalPrice": 10200,
+      "currency": "INR"
+    },
+    "stock": 117,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 68,
+    "productType": "Soccer",
+    "productName": "Nike SB Force 58 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-68.png",
+    "rating": 4.7,
+    "description": "Nike SB Force 58 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9000,
+      "originalPrice": 10800,
+      "currency": "INR"
+    },
+    "stock": 118,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 69,
+    "productType": "Court",
+    "productName": "Nike Air Max Pulse (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-69.png",
+    "rating": 4.8,
+    "description": "Nike Air Max Pulse \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9500,
+      "originalPrice": 11400,
+      "currency": "INR"
+    },
+    "stock": 119,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 70,
+    "productType": "Training",
+    "productName": "Nike Zoom Vomero 17 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-70.png",
+    "rating": 4.9,
+    "description": "Nike Zoom Vomero 17 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10000,
+      "originalPrice": 12000,
+      "currency": "INR"
+    },
+    "stock": 120,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 71,
+    "productType": "Performance",
+    "productName": "Nike Phantom GX Elite (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-71.png",
+    "rating": 5.0,
+    "description": "Nike Phantom GX Elite \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10500,
+      "originalPrice": 12600,
+      "currency": "INR"
+    },
+    "stock": 121,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 72,
+    "productType": "Running",
+    "productName": "Nike Mercurial Vapor 15 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-72.png",
+    "rating": 3.9,
+    "description": "Nike Mercurial Vapor 15 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11000,
+      "originalPrice": 13200,
+      "currency": "INR"
+    },
+    "stock": 122,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 73,
+    "productType": "Lifestyle",
+    "productName": "Nike Air Max 270 Futura (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-73.png",
+    "rating": 4.0,
+    "description": "Nike Air Max 270 Futura \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11500,
+      "originalPrice": 13800,
+      "currency": "INR"
+    },
+    "stock": 123,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 74,
+    "productType": "Air Max",
+    "productName": "Nike Air Huarache Craft (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-74.png",
+    "rating": 4.1,
+    "description": "Nike Air Huarache Craft \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12000,
+      "originalPrice": 14400,
+      "currency": "INR"
+    },
+    "stock": 124,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 75,
+    "productType": "Basketball",
+    "productName": "Nike Free RN Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-75.png",
+    "rating": 4.2,
+    "description": "Nike Free RN Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12500,
+      "originalPrice": 15000,
+      "currency": "INR"
+    },
+    "stock": 125,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 76,
+    "productType": "Skate",
+    "productName": "Nike Air Zoom Structure 25 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-76.png",
+    "rating": 4.3,
+    "description": "Nike Air Zoom Structure 25 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13000,
+      "originalPrice": 15600,
+      "currency": "INR"
+    },
+    "stock": 126,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 77,
+    "productType": "Soccer",
+    "productName": "Nike KD 16 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-77.png",
+    "rating": 4.4,
+    "description": "Nike KD 16 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13500,
+      "originalPrice": 16200,
+      "currency": "INR"
+    },
+    "stock": 127,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 78,
+    "productType": "Court",
+    "productName": "Nike LeBron XXI (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-78.png",
+    "rating": 4.5,
+    "description": "Nike LeBron XXI \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14000,
+      "originalPrice": 16800,
+      "currency": "INR"
+    },
+    "stock": 128,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 79,
+    "productType": "Training",
+    "productName": "Nike Zoom Freak 5 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-79.png",
+    "rating": 4.6,
+    "description": "Nike Zoom Freak 5 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14500,
+      "originalPrice": 17400,
+      "currency": "INR"
+    },
+    "stock": 129,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 80,
+    "productType": "Performance",
+    "productName": "Nike Air Max DN8 Hyper Pink (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-80.png",
+    "rating": 4.7,
+    "description": "Nike Air Max DN8 Hyper Pink \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5000,
+      "originalPrice": 6000,
+      "currency": "INR"
+    },
+    "stock": 130,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 81,
+    "productType": "Running",
+    "productName": "Nike Alphafly 3 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-81.png",
+    "rating": 4.8,
+    "description": "Nike Alphafly 3 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5500,
+      "originalPrice": 6600,
+      "currency": "INR"
+    },
+    "stock": 131,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 82,
+    "productType": "Lifestyle",
+    "productName": "Nike Pegasus 40 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-82.png",
+    "rating": 4.9,
+    "description": "Nike Pegasus 40 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6000,
+      "originalPrice": 7200,
+      "currency": "INR"
+    },
+    "stock": 132,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 83,
+    "productType": "Air Max",
+    "productName": "Nike Dunk Low Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-83.png",
+    "rating": 5.0,
+    "description": "Nike Dunk Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6500,
+      "originalPrice": 7800,
+      "currency": "INR"
+    },
+    "stock": 133,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 84,
+    "productType": "Basketball",
+    "productName": "Nike Court Vision Low Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-84.png",
+    "rating": 3.9,
+    "description": "Nike Court Vision Low Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7000,
+      "originalPrice": 8400,
+      "currency": "INR"
+    },
+    "stock": 134,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 85,
+    "productType": "Skate",
+    "productName": "Nike ZoomX Vaporfly Next% 2 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-85.png",
+    "rating": 4.0,
+    "description": "Nike ZoomX Vaporfly Next% 2 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7500,
+      "originalPrice": 9000,
+      "currency": "INR"
+    },
+    "stock": 135,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 86,
+    "productType": "Soccer",
+    "productName": "Nike Air Force 1 '07 Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-86.png",
+    "rating": 4.1,
+    "description": "Nike Air Force 1 '07 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8000,
+      "originalPrice": 9600,
+      "currency": "INR"
+    },
+    "stock": 136,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 87,
+    "productType": "Court",
+    "productName": "Nike Blazer Mid '77 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-87.png",
+    "rating": 4.2,
+    "description": "Nike Blazer Mid '77 Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8500,
+      "originalPrice": 10200,
+      "currency": "INR"
+    },
+    "stock": 137,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 88,
+    "productType": "Training",
+    "productName": "Nike SB Force 58 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-88.png",
+    "rating": 4.3,
+    "description": "Nike SB Force 58 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9000,
+      "originalPrice": 10800,
+      "currency": "INR"
+    },
+    "stock": 138,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 89,
+    "productType": "Performance",
+    "productName": "Nike Air Max Pulse (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-89.png",
+    "rating": 4.4,
+    "description": "Nike Air Max Pulse \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9500,
+      "originalPrice": 11400,
+      "currency": "INR"
+    },
+    "stock": 139,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 90,
+    "productType": "Running",
+    "productName": "Nike Zoom Vomero 17 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-90.png",
+    "rating": 4.5,
+    "description": "Nike Zoom Vomero 17 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10000,
+      "originalPrice": 12000,
+      "currency": "INR"
+    },
+    "stock": 140,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 91,
+    "productType": "Lifestyle",
+    "productName": "Nike Phantom GX Elite (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-91.png",
+    "rating": 4.6,
+    "description": "Nike Phantom GX Elite \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10500,
+      "originalPrice": 12600,
+      "currency": "INR"
+    },
+    "stock": 141,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 92,
+    "productType": "Air Max",
+    "productName": "Nike Mercurial Vapor 15 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-92.png",
+    "rating": 4.7,
+    "description": "Nike Mercurial Vapor 15 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11000,
+      "originalPrice": 13200,
+      "currency": "INR"
+    },
+    "stock": 142,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 93,
+    "productType": "Basketball",
+    "productName": "Nike Air Max 270 Futura (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-93.png",
+    "rating": 4.8,
+    "description": "Nike Air Max 270 Futura \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11500,
+      "originalPrice": 13800,
+      "currency": "INR"
+    },
+    "stock": 143,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 94,
+    "productType": "Skate",
+    "productName": "Nike Air Huarache Craft (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-94.png",
+    "rating": 4.9,
+    "description": "Nike Air Huarache Craft \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12000,
+      "originalPrice": 14400,
+      "currency": "INR"
+    },
+    "stock": 144,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 95,
+    "productType": "Soccer",
+    "productName": "Nike Free RN Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-95.png",
+    "rating": 5.0,
+    "description": "Nike Free RN Next Nature \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12500,
+      "originalPrice": 15000,
+      "currency": "INR"
+    },
+    "stock": 145,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 96,
+    "productType": "Court",
+    "productName": "Nike Air Zoom Structure 25 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-96.png",
+    "rating": 3.9,
+    "description": "Nike Air Zoom Structure 25 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13000,
+      "originalPrice": 15600,
+      "currency": "INR"
+    },
+    "stock": 146,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 97,
+    "productType": "Training",
+    "productName": "Nike KD 16 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-97.png",
+    "rating": 4.0,
+    "description": "Nike KD 16 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13500,
+      "originalPrice": 16200,
+      "currency": "INR"
+    },
+    "stock": 147,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 98,
+    "productType": "Performance",
+    "productName": "Nike LeBron XXI (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-98.png",
+    "rating": 4.1,
+    "description": "Nike LeBron XXI \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14000,
+      "originalPrice": 16800,
+      "currency": "INR"
+    },
+    "stock": 148,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 99,
+    "productType": "Running",
+    "productName": "Nike Zoom Freak 5 (Women)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-99.png",
+    "rating": 4.2,
+    "description": "Nike Zoom Freak 5 \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14500,
+      "originalPrice": 17400,
+      "currency": "INR"
+    },
+    "stock": 149,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 100,
+    "productType": "Lifestyle",
+    "productName": "Nike Air Max DN8 Hyper Pink (Men)",
+    "productImage": "https://static.nike.com/a/images/t_prod/w_1920,c_limit,f_auto,q_auto/nike-shoe-100.png",
+    "rating": 4.3,
+    "description": "Nike Air Max DN8 Hyper Pink \u2014 new release from Nike, blending style, comfort, and performance for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5000,
+      "originalPrice": 6000,
+      "currency": "INR"
+    },
+    "stock": 150,
+    "quantity": 1,
+    "gender": "Men"
+  }
+]

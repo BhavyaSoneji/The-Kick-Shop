@@ -1,0 +1,107 @@
+  [
+    {
+      "id": 1,
+      "productType": "Air Force",
+      "productName": "Nike Air Force 1 Low Premium Leather All-White Classic Streetwear Sneaker",
+      "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/82aa97ed-98bf-4b6f-9d0b-31a9f907077b/AIR+FORCE+1+%2707.png",
+      "rating": 5,
+      "description": "Classic Nike Air Force 1 in premium leather with timeless all-white streetwear style and comfortable cushioned midsole.",
+      "pricing": {
+        "sellingPrice": 8500,
+        "originalPrice": 12000,
+        "currency": "INR"
+      },
+      "stock": 100,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "productType": "Air Max",
+      "productName": "Nike Air Max 90 Infrared Retro Running Sneaker with Iconic Visible Air Unit",
+      "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/406e54ef-0922-4620-93b9-e1a5638a2fcf/AIR+MAX+90.png",
+      "rating": 4,
+      "description": "Retro Nike Air Max 90 in infrared colorway with iconic visible Air unit and durable leather-mesh construction.",
+      "pricing": {
+        "sellingPrice": 7900,
+        "originalPrice": 11000,
+        "currency": "INR"
+      },
+      "stock": 80,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "productType": "Dunk",
+      "productName": "Nike Dunk Low Retro Multicolor Leather Skateboarding Streetwear Sneaker",
+      "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/149ad40c-f00c-452a-8a76-ffff7aabfb16/NIKE+DUNK+LOW+RETRO.png",
+      "rating": 5,
+      "description": "Low-cut Nike Dunk in multicolor design with premium leather build and cushioned fit inspired by basketball and skateboarding.",
+      "pricing": {
+        "sellingPrice": 7000,
+        "originalPrice": 9500,
+        "currency": "INR"
+      },
+      "stock": 60,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "productType": "Jordan",
+      "productName": "Air Jordan 1 Retro High OG Chicago Lost and Found Basketball Icon",
+      "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/448d4de8-5cb8-406f-8d72-6a4d7092900e/AIR+JORDAN+1+RETRO+HIGH+OG.png",
+      "rating": 5,
+      "description": "Legendary Air Jordan 1 Chicago colorway with retro design, premium leather, and iconic high-top basketball heritage style.",
+      "pricing": {
+        "sellingPrice": 14000,
+        "originalPrice": 18000,
+        "currency": "INR"
+      },
+      "stock": 40,
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "productType": "Blazer",
+      "productName": "Nike Blazer Mid 77 Vintage Premium Leather Basketball Retro Fashion Sneaker",
+      "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ef4dbed6-c621-4879-8db3-f87296bfb570/BLAZER+MID+%2777+VNTG.png",
+      "rating": 5,
+      "description": "Retro Nike Blazer Mid 77 with vintage leather styling, exposed foam tongue, and durable sole construction.",
+      "pricing": {
+        "sellingPrice": 6000,
+        "originalPrice": 8000,
+        "currency": "INR"
+      },
+      "stock": 90,
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "productType": "Pegasus",
+      "productName": "Nike Air Zoom Pegasus 39 Neutral Running Shoe Light Responsive Daily Trainer",
+      "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7053c29c-2ec3-415c-80fb-f37954f13a4d/NIKE+AIR+ZOOM+PEGASUS+39+4E.png  ",
+      "rating": 4,
+      "description": "Nike Pegasus 39 with Zoom Air cushioning, lightweight mesh upper, and reliable comfort for everyday runs.",
+      "pricing": {
+        "sellingPrice": 7200,
+        "originalPrice": 9500,
+        "currency": "INR"
+      },
+      "stock": 75,
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "productType": "Vomero",
+      "productName": "Nike Zoom Vomero 5",
+      "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/34a8f000-a47b-4366-9d8f-80935066fe7a/NIKE+ZOOM+VOMERO+5.png",
+      "rating": 4,
+      "description": "Nike React Element 87 with translucent upper, React cushioning technology, and futuristic sneaker design.",
+      "pricing": {
+        "sellingPrice": 7800,
+        "originalPrice": 10000,
+        "currency": "INR"
+      },
+      "stock": 50,
+      "quantity": 1
+    }
+  ]

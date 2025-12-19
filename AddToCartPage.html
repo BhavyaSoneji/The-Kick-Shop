@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./src/Styles/cart.css" />
+    <link rel="stylesheet" href="./src/Styles/NavBar.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- NAV BAR -->
+    <nav class="nav-container"></nav>
+    <!-- End Nav Bar -->
+    <main>
+      <div class="overlay"></div>
+      <!-- <div class="popup"></div> -->
+
+      <!-- Show Cart -->
+      <section class="main-section-cart">
+        <div class="container">
+          <section class="cart-products"></section>
+        </div>
+      </section>
+      <!-- Product Cart Tempelate -->
+      <template id="cart-product-template">
+        <div class="product-card-container" id="cardValue">
+          <span class="product-type"></span>
+          <div class="product-img-container">
+            <img src="" alt="" class="product-img" />
+          </div>
+          <h4 class="product-name"></h4>
+          <!-- <p class="product-description"></p> -->
+          <div class="product-priceing">
+            <p class="product-selling-price"></p>
+          </div>
+          <div class="product-stock-container">
+            <p class="product-stock-text">Available Stock :</p>
+            <p class="product-stock"></p>
+          </div>
+          <div class="product-qty-container">
+            <p class="qty-text">Quantity :</p>
+            <div class="btn-container">
+              <button class="btn-inc">+</button>
+              <span class="qty-amount"></span>
+              <button class="btn-dec">-</button>
+            </div>
+          </div>
+          <button class="btn-btn-black btn-remove">Remove</button>
+        </div>
+      </template>
+      <!-- End Product Cart Tempelate -->
+      <!-- End Show Cart -->
+
+      <!-- Show Bill -->
+      <section class="show-bill-contaienr">
+        <div class="container-bill">
+          <h2 class="heading">Cart Bill Summary</h2>
+          <div class="sub-total">
+            <p class="">Sub Total</p>
+            <p class="sub-total-amount amount"></p>
+          </div>
+          <div class="Tax">
+            <p>Tax</p>
+            <p class="tax-amount amount"></p>
+          </div>
+          <hr />
+          <div class="final-total">
+            <p>Final Total</p>
+            <p class="final-total-amount amount"></p>
+          </div>
+        </div>
+      </section>
+      <!-- End Show Bill -->
+
+      <!-- End Main Section -->
+
+      <!-- Footer Section  -->
+      <footer class="footer"></footer>
+      <!-- Footer Section  -->
+    </main>
+  </body>
+  <script type="module" src="./src/Services/GetCartProducts.js"></script>
+  <script type="module" src="./src/Services/RemoveCartProduct.js"></script>
+  <script type="module">
+    import { NavBar } from "./src/Services/NavBar.js";
+    document.querySelector(".nav-container").innerHTML = NavBar();
+
+    const logo = document.querySelector(".logo");
+    logo.addEventListener("click", () => {
+      window.location.href = "index.html";
+    });
+
+    document.querySelector(".wishlist").addEventListener("click", () => {
+      document.location.href = "./WishlistPage.html";
+    });
+
+    import { footer } from "./src/Services/Footer.js";
+    document.querySelector(".footer").innerHTML = footer;
+
+    const hamburger = document.querySelector(".hamburger");
+    const navLinks = document.querySelector(".flex-nav-link");
+    const overlay = document.querySelector(".overlay");
+
+    hamburger.addEventListener("click", () => {
+      navLinks.classList.toggle("active");
+      overlay.classList.toggle("active");
+    });
+
+    overlay.addEventListener("click", () => {
+      navLinks.classList.remove("active");
+      overlay.classList.remove("active");
+    });
+
+    import { DropDownEvent } from "./src/Services/GetShopProducts.js";
+    DropDownEvent();
+  </script>
+</html>

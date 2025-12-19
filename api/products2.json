@@ -1,0 +1,1604 @@
+[
+  {
+    "id": 1,
+    "productType": "Skate",
+    "productName": "SB Check Solarsoft Triple White (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/22f26dc1-bccf-498a-a914-2a005c5f6b3b/NIKE+SB+CHECK+SOLAR+CNVS.png",
+    "rating": 4.1,
+    "description": "SB Check Solarsoft Triple White men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 4800,
+      "originalPrice": 6000,
+      "currency": "INR"
+    },
+    "stock": 55,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 2,
+    "productType": "Air Max",
+    "productName": "Air Max 2013 Triple White (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_864_v1,f_auto,q_auto:eco/ba2ab3da-0d91-4ebf-8dc0-b6e858b3bcd8/run-defy-road-running-shoes-rVrdTl.png",
+    "rating": 4.5,
+    "description": "Air Max 2013 Triple White men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 12100,
+      "originalPrice": 14000,
+      "currency": "INR"
+    },
+    "stock": 28,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 3,
+    "productType": "Air Max",
+    "productName": "Air Max 90 Triple White (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+90+triple+white.png",
+    "rating": 4.4,
+    "description": "Air Max 90 Triple White men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6200,
+      "originalPrice": 7500,
+      "currency": "INR"
+    },
+    "stock": 26,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 4,
+    "productType": "Lifestyle",
+    "productName": "Air Max 720 Retro (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+720+retro.png",
+    "rating": 4.1,
+    "description": "Air Max 720 Retro men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13100,
+      "originalPrice": 17100,
+      "currency": "INR"
+    },
+    "stock": 170,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 5,
+    "productType": "Air Max",
+    "productName": "Air Max 95 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+95.png",
+    "rating": 4.6,
+    "description": "Air Max 95 men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13200,
+      "originalPrice": 15900,
+      "currency": "INR"
+    },
+    "stock": 107,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 6,
+    "productType": "Air Max",
+    "productName": "Air Max 95 Infrared (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+95+infrared.png",
+    "rating": 3.9,
+    "description": "Air Max 95 Infrared men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6200,
+      "originalPrice": 7800,
+      "currency": "INR"
+    },
+    "stock": 117,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 7,
+    "productType": "Racing",
+    "productName": "Alphafly 3 SE (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/alphafly+3+se.png",
+    "rating": 4.8,
+    "description": "Alphafly 3 SE men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 18800,
+      "originalPrice": 23500,
+      "currency": "INR"
+    },
+    "stock": 137,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 8,
+    "productType": "Racing",
+    "productName": "Air Zoom Tempo Next% Triple White (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+tempo+next+triple+white.png",
+    "rating": 4.5,
+    "description": "Air Zoom Tempo Next% Triple White men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 19600,
+      "originalPrice": 22600,
+      "currency": "INR"
+    },
+    "stock": 180,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 9,
+    "productType": "Soccer",
+    "productName": "Phantom Vision SE (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/phantom+vision+se.png",
+    "rating": 4.6,
+    "description": "Phantom Vision SE men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10800,
+      "originalPrice": 13000,
+      "currency": "INR"
+    },
+    "stock": 31,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 10,
+    "productType": "Basketball",
+    "productName": "Air Jordan 4 Retro Retro (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+4+retro+retro.png",
+    "rating": 5.0,
+    "description": "Air Jordan 4 Retro Retro men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 15800,
+      "originalPrice": 19800,
+      "currency": "INR"
+    },
+    "stock": 79,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 11,
+    "productType": "Racing",
+    "productName": "Alphafly 3 OG (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/alphafly+3+og.png",
+    "rating": 4.6,
+    "description": "Alphafly 3 OG men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 17100,
+      "originalPrice": 22300,
+      "currency": "INR"
+    },
+    "stock": 113,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 12,
+    "productType": "Court",
+    "productName": "Court Vision Low SE (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/court+vision+low+se.png",
+    "rating": 4.6,
+    "description": "Court Vision Low SE men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8000,
+      "originalPrice": 9600,
+      "currency": "INR"
+    },
+    "stock": 199,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 13,
+    "productType": "Basketball",
+    "productName": "Air Jordan 11 Summit White (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+11+summit+white.png",
+    "rating": 4.4,
+    "description": "Air Jordan 11 Summit White men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6900,
+      "originalPrice": 8300,
+      "currency": "INR"
+    },
+    "stock": 82,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 14,
+    "productType": "Court",
+    "productName": "Court Vision Low Premium (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/court+vision+low+premium.png",
+    "rating": 5.0,
+    "description": "Court Vision Low Premium men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8300,
+      "originalPrice": 10400,
+      "currency": "INR"
+    },
+    "stock": 183,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 15,
+    "productType": "Lifestyle",
+    "productName": "Dunk Low Retro Flyknit (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dunk+low+retro+flyknit.png",
+    "rating": 4.8,
+    "description": "Dunk Low Retro Flyknit men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6800,
+      "originalPrice": 8500,
+      "currency": "INR"
+    },
+    "stock": 34,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 16,
+    "productType": "Lifestyle",
+    "productName": "Go FlyEase (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/go+flyease.png",
+    "rating": 4.1,
+    "description": "Go FlyEase men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 8000,
+      "originalPrice": 10400,
+      "currency": "INR"
+    },
+    "stock": 74,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 17,
+    "productType": "Training",
+    "productName": "Nike Free Metcon SE (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/nike+free+metcon+se.png",
+    "rating": 4.3,
+    "description": "Nike Free Metcon SE men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5700,
+      "originalPrice": 7500,
+      "currency": "INR"
+    },
+    "stock": 184,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 18,
+    "productType": "Lifestyle",
+    "productName": "Air Huarache Infrared (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+huarache+infrared.png",
+    "rating": 4.1,
+    "description": "Air Huarache Infrared men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7300,
+      "originalPrice": 8800,
+      "currency": "INR"
+    },
+    "stock": 163,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 19,
+    "productType": "Racing",
+    "productName": "Air Zoom Tempo Next% Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+tempo+next+next+nature.png",
+    "rating": 4.9,
+    "description": "Air Zoom Tempo Next% Next Nature men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 24900,
+      "originalPrice": 32400,
+      "currency": "INR"
+    },
+    "stock": 122,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 20,
+    "productType": "Running",
+    "productName": "Free RN 5.0 Retro (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/free+rn+5.0+retro.png",
+    "rating": 3.9,
+    "description": "Free RN 5.0 Retro men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7000,
+      "originalPrice": 9100,
+      "currency": "INR"
+    },
+    "stock": 32,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 21,
+    "productType": "Running",
+    "productName": "React Infinity Run Infrared (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/react+infinity+run+infrared.png",
+    "rating": 4.8,
+    "description": "React Infinity Run Infrared men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 19500,
+      "originalPrice": 23400,
+      "currency": "INR"
+    },
+    "stock": 128,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 22,
+    "productType": "Running",
+    "productName": "Air Zoom Structure 23 Triple White (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+structure+23+triple+white.png",
+    "rating": 4.5,
+    "description": "Air Zoom Structure 23 Triple White men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13300,
+      "originalPrice": 17300,
+      "currency": "INR"
+    },
+    "stock": 139,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 23,
+    "productType": "Running",
+    "productName": "Air Zoom Structure Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+structure+next+nature.png",
+    "rating": 4.6,
+    "description": "Air Zoom Structure Next Nature men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 17600,
+      "originalPrice": 20300,
+      "currency": "INR"
+    },
+    "stock": 49,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 24,
+    "productType": "Basketball",
+    "productName": "Air Jordan 11 Flyknit (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+11+flyknit.png",
+    "rating": 4.7,
+    "description": "Air Jordan 11 Flyknit men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 15600,
+      "originalPrice": 19500,
+      "currency": "INR"
+    },
+    "stock": 107,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 25,
+    "productType": "Running",
+    "productName": "React Infinity Run Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/react+infinity+run+next+nature.png",
+    "rating": 4.3,
+    "description": "React Infinity Run Next Nature men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 14600,
+      "originalPrice": 17600,
+      "currency": "INR"
+    },
+    "stock": 87,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 26,
+    "productType": "Lifestyle",
+    "productName": "React Element 87 Infrared (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/react+element+87+infrared.png",
+    "rating": 4.8,
+    "description": "React Element 87 Infrared men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10400,
+      "originalPrice": 12000,
+      "currency": "INR"
+    },
+    "stock": 96,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 27,
+    "productType": "Skate",
+    "productName": "SB Check Solarsoft Flyknit (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/sb+check+solarsoft+flyknit.png",
+    "rating": 4.2,
+    "description": "SB Check Solarsoft Flyknit men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 7000,
+      "originalPrice": 8400,
+      "currency": "INR"
+    },
+    "stock": 61,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 28,
+    "productType": "Racing",
+    "productName": "Air Zoom Tempo Next% Flyknit (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+tempo+next+flyknit.png",
+    "rating": 4.4,
+    "description": "Air Zoom Tempo Next% Flyknit men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10000,
+      "originalPrice": 12500,
+      "currency": "INR"
+    },
+    "stock": 48,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 29,
+    "productType": "Running",
+    "productName": "Free RN 5.0 Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/free+rn+5.0+next+nature.png",
+    "rating": 4.1,
+    "description": "Free RN 5.0 Next Nature men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9600,
+      "originalPrice": 11100,
+      "currency": "INR"
+    },
+    "stock": 165,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 30,
+    "productType": "Running",
+    "productName": "ZoomX Invincible Triple White (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/zoomx+invincible+triple+white.png",
+    "rating": 4.8,
+    "description": "ZoomX Invincible Triple White men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 22200,
+      "originalPrice": 28900,
+      "currency": "INR"
+    },
+    "stock": 156,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 31,
+    "productType": "Running",
+    "productName": "Zoom Vomero 5 Infrared (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/zoom+vomero+5+infrared.png",
+    "rating": 4.9,
+    "description": "Zoom Vomero 5 Infrared men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 20300,
+      "originalPrice": 26400,
+      "currency": "INR"
+    },
+    "stock": 62,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 32,
+    "productType": "Air Max",
+    "productName": "Air Max 1 Flyknit (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+1+flyknit.png",
+    "rating": 5.0,
+    "description": "Air Max 1 Flyknit men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11200,
+      "originalPrice": 14600,
+      "currency": "INR"
+    },
+    "stock": 158,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 33,
+    "productType": "Basketball",
+    "productName": "Zoom Freak Retro (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/zoom+freak+retro.png",
+    "rating": 4.3,
+    "description": "Zoom Freak Retro men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 15100,
+      "originalPrice": 18900,
+      "currency": "INR"
+    },
+    "stock": 191,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 34,
+    "productType": "Basketball",
+    "productName": "Air Jordan 1 Retro High OG SE (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+1+retro+high+og+se.png",
+    "rating": 3.9,
+    "description": "Air Jordan 1 Retro High OG SE men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11600,
+      "originalPrice": 15100,
+      "currency": "INR"
+    },
+    "stock": 77,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 35,
+    "productType": "Running",
+    "productName": "Air Zoom Pegasus 39 SE (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+pegasus+39+se.png",
+    "rating": 4.5,
+    "description": "Air Zoom Pegasus 39 SE men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 4000,
+      "originalPrice": 4800,
+      "currency": "INR"
+    },
+    "stock": 21,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 36,
+    "productType": "Running",
+    "productName": "Air Zoom Pegasus 39 Summit White (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+pegasus+39+summit+white.png",
+    "rating": 3.9,
+    "description": "Air Zoom Pegasus 39 Summit White men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5000,
+      "originalPrice": 6000,
+      "currency": "INR"
+    },
+    "stock": 28,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 37,
+    "productType": "Running",
+    "productName": "Zoom Pegasus Turbo Triple White (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/zoom+pegasus+turbo+triple+white.png",
+    "rating": 4.1,
+    "description": "Zoom Pegasus Turbo Triple White men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 16600,
+      "originalPrice": 20000,
+      "currency": "INR"
+    },
+    "stock": 144,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 38,
+    "productType": "Lifestyle",
+    "productName": "Waffle Racer Flyknit (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/waffle+racer+flyknit.png",
+    "rating": 4.1,
+    "description": "Waffle Racer Flyknit men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5600,
+      "originalPrice": 7300,
+      "currency": "INR"
+    },
+    "stock": 141,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 39,
+    "productType": "Soccer",
+    "productName": "Phantom GX Retro (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/phantom+gx+retro.png",
+    "rating": 4.6,
+    "description": "Phantom GX Retro men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 4700,
+      "originalPrice": 5500,
+      "currency": "INR"
+    },
+    "stock": 110,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 40,
+    "productType": "Skate",
+    "productName": "SB Nyjah Free OG (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/sb+nyjah+free+og.png",
+    "rating": 4.6,
+    "description": "SB Nyjah Free OG men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 10400,
+      "originalPrice": 12000,
+      "currency": "INR"
+    },
+    "stock": 185,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 41,
+    "productType": "Racing",
+    "productName": "Alphafly 3 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/alphafly+3.png",
+    "rating": 4.8,
+    "description": "Alphafly 3 men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 20300,
+      "originalPrice": 25400,
+      "currency": "INR"
+    },
+    "stock": 47,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 42,
+    "productType": "Lifestyle",
+    "productName": "Tanjun Retro (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/tanjun+retro.png",
+    "rating": 4.0,
+    "description": "Tanjun Retro men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6400,
+      "originalPrice": 8400,
+      "currency": "INR"
+    },
+    "stock": 66,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 43,
+    "productType": "Air Max",
+    "productName": "Air Max 95 Premium (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+95+premium.png",
+    "rating": 4.3,
+    "description": "Air Max 95 Premium men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 6600,
+      "originalPrice": 7600,
+      "currency": "INR"
+    },
+    "stock": 160,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 44,
+    "productType": "Racing",
+    "productName": "Alphafly 3 (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/alphafly+3.png",
+    "rating": 5.0,
+    "description": "Alphafly 3 men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 26600,
+      "originalPrice": 30600,
+      "currency": "INR"
+    },
+    "stock": 80,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 45,
+    "productType": "Court",
+    "productName": "Court Vision Low OG (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/court+vision+low+og.png",
+    "rating": 4.1,
+    "description": "Court Vision Low OG men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9700,
+      "originalPrice": 12700,
+      "currency": "INR"
+    },
+    "stock": 122,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 46,
+    "productType": "Running",
+    "productName": "Air VaporMax Infrared (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+vapormax+infrared.png",
+    "rating": 5.0,
+    "description": "Air VaporMax Infrared men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 13200,
+      "originalPrice": 15200,
+      "currency": "INR"
+    },
+    "stock": 87,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 47,
+    "productType": "Lifestyle",
+    "productName": "Air Huarache Next Nature (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+huarache+next+nature.png",
+    "rating": 4.0,
+    "description": "Air Huarache Next Nature men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 9400,
+      "originalPrice": 12300,
+      "currency": "INR"
+    },
+    "stock": 95,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 48,
+    "productType": "Lifestyle",
+    "productName": "Waffle Racer (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/waffle+racer.png",
+    "rating": 4.7,
+    "description": "Waffle Racer men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 11400,
+      "originalPrice": 13200,
+      "currency": "INR"
+    },
+    "stock": 34,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 49,
+    "productType": "Running",
+    "productName": "Air VaporMax LX (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+vapormax+lx.png",
+    "rating": 3.9,
+    "description": "Air VaporMax LX men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 15700,
+      "originalPrice": 18900,
+      "currency": "INR"
+    },
+    "stock": 150,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 50,
+    "productType": "Running",
+    "productName": "ZoomX Invincible Infrared (Men)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/zoomx+invincible+infrared.png",
+    "rating": 4.6,
+    "description": "ZoomX Invincible Infrared men's shoe — classic Nike comfort and style, built for everyday wear.",
+    "pricing": {
+      "sellingPrice": 5200,
+      "originalPrice": 6000,
+      "currency": "INR"
+    },
+    "stock": 80,
+    "quantity": 1,
+    "gender": "Men"
+  },
+  {
+    "id": 51,
+    "productType": "Basketball",
+    "productName": "Savaleos Triple White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/savaleos+triple+white.png",
+    "rating": 4.5,
+    "description": "Savaleos Triple White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 18000,
+      "originalPrice": 21300,
+      "currency": "INR"
+    },
+    "stock": 25,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 52,
+    "productType": "Soccer",
+    "productName": "Phantom Vision Triple White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/phantom+vision+triple+white.png",
+    "rating": 4.9,
+    "description": "Phantom Vision Triple White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 8800,
+      "originalPrice": 10800,
+      "currency": "INR"
+    },
+    "stock": 67,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 53,
+    "productType": "Basketball",
+    "productName": "Air Jordan 4 Retro SE (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+4+retro+se.png",
+    "rating": 4.3,
+    "description": "Air Jordan 4 Retro SE women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 9000,
+      "originalPrice": 11000,
+      "currency": "INR"
+    },
+    "stock": 186,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 54,
+    "productType": "Basketball",
+    "productName": "Air Jordan 1 Retro High OG Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+1+retro+high+og+next+nature.png",
+    "rating": 4.9,
+    "description": "Air Jordan 1 Retro High OG Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 11800,
+      "originalPrice": 14400,
+      "currency": "INR"
+    },
+    "stock": 33,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 55,
+    "productType": "Lifestyle",
+    "productName": "Air Force 1 '07 Premium (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+force+1+07+premium.png",
+    "rating": 4.0,
+    "description": "Air Force 1 '07 Premium women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 11900,
+      "originalPrice": 13400,
+      "currency": "INR"
+    },
+    "stock": 69,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 56,
+    "productType": "Lifestyle",
+    "productName": "React Element 87 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/react+element+87+next+nature.png",
+    "rating": 4.9,
+    "description": "React Element 87 Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 5600,
+      "originalPrice": 6900,
+      "currency": "INR"
+    },
+    "stock": 77,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 57,
+    "productType": "Running",
+    "productName": "Free RN 5.0 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/free+rn+5.0+next+nature.png",
+    "rating": 4.8,
+    "description": "Free RN 5.0 Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 7500,
+      "originalPrice": 9600,
+      "currency": "INR"
+    },
+    "stock": 195,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 58,
+    "productType": "Lifestyle",
+    "productName": "Air Force 1 Shadow LX (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+force+1+shadow+lx.png",
+    "rating": 4.6,
+    "description": "Air Force 1 Shadow LX women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 12300,
+      "originalPrice": 13800,
+      "currency": "INR"
+    },
+    "stock": 156,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 59,
+    "productType": "Lifestyle",
+    "productName": "Air Force 1 Shadow Summit White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+force+1+shadow+summit+white.png",
+    "rating": 4.2,
+    "description": "Air Force 1 Shadow Summit White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 5300,
+      "originalPrice": 6300,
+      "currency": "INR"
+    },
+    "stock": 42,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 60,
+    "productType": "Air Max",
+    "productName": "Air Max 2013 Flyknit (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+2013+flyknit.png",
+    "rating": 4.2,
+    "description": "Air Max 2013 Flyknit women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 5400,
+      "originalPrice": 6600,
+      "currency": "INR"
+    },
+    "stock": 68,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 61,
+    "productType": "Air Max",
+    "productName": "Air Max Plus SE (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+plus+se.png",
+    "rating": 4.5,
+    "description": "Air Max Plus SE women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 6100,
+      "originalPrice": 7500,
+      "currency": "INR"
+    },
+    "stock": 79,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 62,
+    "productType": "Running",
+    "productName": "Air VaporMax Triple White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+vapormax+triple+white.png",
+    "rating": 4.8,
+    "description": "Air VaporMax Triple White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 19700,
+      "originalPrice": 25300,
+      "currency": "INR"
+    },
+    "stock": 26,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 63,
+    "productType": "Lifestyle",
+    "productName": "Air Force 1 '07 SE (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+force+1+07+se.png",
+    "rating": 4.6,
+    "description": "Air Force 1 '07 SE women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 13800,
+      "originalPrice": 16300,
+      "currency": "INR"
+    },
+    "stock": 82,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 64,
+    "productType": "Court",
+    "productName": "Court Vision Low Premium (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/court+vision+low+premium.png",
+    "rating": 4.5,
+    "description": "Court Vision Low Premium women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 10500,
+      "originalPrice": 13500,
+      "currency": "INR"
+    },
+    "stock": 43,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 65,
+    "productType": "Running",
+    "productName": "Air Zoom Pegasus 39 Pastel (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+pegasus+39+pastel.png",
+    "rating": 4.8,
+    "description": "Air Zoom Pegasus 39 Pastel women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 17400,
+      "originalPrice": 19500,
+      "currency": "INR"
+    },
+    "stock": 164,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 66,
+    "productType": "Lifestyle",
+    "productName": "Air Max 720 Pastel (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+720+pastel.png",
+    "rating": 3.9,
+    "description": "Air Max 720 Pastel women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 9500,
+      "originalPrice": 11300,
+      "currency": "INR"
+    },
+    "stock": 108,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 67,
+    "productType": "Air Max",
+    "productName": "Air Max 97 SE (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+97+se.png",
+    "rating": 4.6,
+    "description": "Air Max 97 SE women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 6100,
+      "originalPrice": 7200,
+      "currency": "INR"
+    },
+    "stock": 105,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 68,
+    "productType": "Lifestyle",
+    "productName": "Air Max 720 OG (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+720+og.png",
+    "rating": 4.9,
+    "description": "Air Max 720 OG women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 11900,
+      "originalPrice": 14100,
+      "currency": "INR"
+    },
+    "stock": 75,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 69,
+    "productType": "Court",
+    "productName": "Court Vision Low Pastel (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/court+vision+low+pastel.png",
+    "rating": 4.1,
+    "description": "Court Vision Low Pastel women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 8700,
+      "originalPrice": 9800,
+      "currency": "INR"
+    },
+    "stock": 100,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 70,
+    "productType": "Soccer",
+    "productName": "Phantom GX Summit White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/phantom+gx+summit+white.png",
+    "rating": 4.2,
+    "description": "Phantom GX Summit White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 12900,
+      "originalPrice": 15300,
+      "currency": "INR"
+    },
+    "stock": 194,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 71,
+    "productType": "Racing",
+    "productName": "Alphafly 3 OG (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/alphafly+3+og.png",
+    "rating": 4.1,
+    "description": "Alphafly 3 OG women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 10900,
+      "originalPrice": 14000,
+      "currency": "INR"
+    },
+    "stock": 132,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 72,
+    "productType": "Running",
+    "productName": "Joyride Run Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/joyride+run+next+nature.png",
+    "rating": 4.1,
+    "description": "Joyride Run Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 24500,
+      "originalPrice": 29000,
+      "currency": "INR"
+    },
+    "stock": 183,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 73,
+    "productType": "Lifestyle",
+    "productName": "Cortez Basic OG (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cortez+basic+og.png",
+    "rating": 4.9,
+    "description": "Cortez Basic OG women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 8200,
+      "originalPrice": 10100,
+      "currency": "INR"
+    },
+    "stock": 86,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 74,
+    "productType": "Running",
+    "productName": "Joyride Run Summit White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/joyride+run+summit+white.png",
+    "rating": 4.6,
+    "description": "Joyride Run Summit White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 16500,
+      "originalPrice": 21200,
+      "currency": "INR"
+    },
+    "stock": 152,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 75,
+    "productType": "Running",
+    "productName": "Zoom Pegasus Turbo (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/zoom+pegasus+turbo.png",
+    "rating": 4.1,
+    "description": "Zoom Pegasus Turbo women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 6400,
+      "originalPrice": 7900,
+      "currency": "INR"
+    },
+    "stock": 82
+
+,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 76,
+    "productType": "Air Max",
+    "productName": "Air Max 97 Triple White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+97+triple+white.png",
+    "rating": 4.3,
+    "description": "Air Max 97 Triple White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 11100,
+      "originalPrice": 14300,
+      "currency": "INR"
+    },
+    "stock": 95,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 77,
+    "productType": "Skate",
+    "productName": "SB Nyjah Free LX (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/sb+nyjah+free+lx.png",
+    "rating": 4.3,
+    "description": "SB Nyjah Free LX women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 11000,
+      "originalPrice": 12400,
+      "currency": "INR"
+    },
+    "stock": 162,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 78,
+    "productType": "Lifestyle",
+    "productName": "Cortez Basic Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cortez+basic+next+nature.png",
+    "rating": 3.9,
+    "description": "Cortez Basic Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 4500,
+      "originalPrice": 5800,
+      "currency": "INR"
+    },
+    "stock": 152,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 79,
+    "productType": "Basketball",
+    "productName": "Air Jordan 11 Summit White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+11+summit+white.png",
+    "rating": 4.4,
+    "description": "Air Jordan 11 Summit White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 8500,
+      "originalPrice": 10400,
+      "currency": "INR"
+    },
+    "stock": 185,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 80,
+    "productType": "Running",
+    "productName": "Zoom Pegasus Turbo LX (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/zoom+pegasus+turbo+lx.png",
+    "rating": 4.7,
+    "description": "Zoom Pegasus Turbo LX women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 11500,
+      "originalPrice": 12900,
+      "currency": "INR"
+    },
+    "stock": 91,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 81,
+    "productType": "Lifestyle",
+    "productName": "React Element 87 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/react+element+87+next+nature.png",
+    "rating": 4.3,
+    "description": "React Element 87 Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 12500,
+      "originalPrice": 16000,
+      "currency": "INR"
+    },
+    "stock": 193,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 82,
+    "productType": "Air Max",
+    "productName": "Air Max 270 Flyknit (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+270+flyknit.png",
+    "rating": 4.4,
+    "description": "Air Max 270 Flyknit women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 5100,
+      "originalPrice": 6100,
+      "currency": "INR"
+    },
+    "stock": 112,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 83,
+    "productType": "Basketball",
+    "productName": "Air Jordan 11 Pastel (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+11+pastel.png",
+    "rating": 4.3,
+    "description": "Air Jordan 11 Pastel women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 13800,
+      "originalPrice": 16900,
+      "currency": "INR"
+    },
+    "stock": 15,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 84,
+    "productType": "Lifestyle",
+    "productName": "Air Force 1 Shadow Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+force+1+shadow+next+nature.png",
+    "rating": 4.8,
+    "description": "Air Force 1 Shadow Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 6600,
+      "originalPrice": 8500,
+      "currency": "INR"
+    },
+    "stock": 170,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 85,
+    "productType": "Basketball",
+    "productName": "Air Jordan 1 Retro High OG SE (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+1+retro+high+og+se.png",
+    "rating": 4.4,
+    "description": "Air Jordan 1 Retro High OG SE women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 11900,
+      "originalPrice": 15300,
+      "currency": "INR"
+    },
+    "stock": 69,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 86,
+    "productType": "Lifestyle",
+    "productName": "React Element 87 Premium (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/react+element+87+premium.png",
+    "rating": 4.6,
+    "description": "React Element 87 Premium women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 13400,
+      "originalPrice": 15900,
+      "currency": "INR"
+    },
+    "stock": 87,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 87,
+    "productType": "Lifestyle",
+    "productName": "React Element 87 Summit White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/react+element+87+summit+white.png",
+    "rating": 4.0,
+    "description": "React Element 87 Summit White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 12100,
+      "originalPrice": 14800,
+      "currency": "INR"
+    },
+    "stock": 75,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 88,
+    "productType": "Basketball",
+    "productName": "Air Jordan 11 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+jordan+11+next+nature.png",
+    "rating": 4.1,
+    "description": "Air Jordan 11 Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 8800,
+      "originalPrice": 10400,
+      "currency": "INR"
+    },
+    "stock": 26,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 89,
+    "productType": "Lifestyle",
+    "productName": "Tanjun Premium (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/tanjun+premium.png",
+    "rating": 4.4,
+    "description": "Tanjun Premium women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 11800,
+      "originalPrice": 13300,
+      "currency": "INR"
+    },
+    "stock": 176,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 90,
+    "productType": "Training",
+    "productName": "Nike Free Metcon Retro (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/nike+free+metcon+retro.png",
+    "rating": 4.4,
+    "description": "Nike Free Metcon Retro women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 12100,
+      "originalPrice": 15500,
+      "currency": "INR"
+    },
+    "stock": 77,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 91,
+    "productType": "Lifestyle",
+    "productName": "Blazer Mid '77 Summit White (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/blazer+mid+77+summit+white.png",
+    "rating": 4.9,
+    "description": "Blazer Mid '77 Summit White women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 12800,
+      "originalPrice": 14400,
+      "currency": "INR"
+    },
+    "stock": 42,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 92,
+    "productType": "Skate",
+    "productName": "SB Nyjah Free Retro (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/sb+nyjah+free+retro.png",
+    "rating": 4.0,
+    "description": "SB Nyjah Free Retro women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 6700,
+      "originalPrice": 8600,
+      "currency": "INR"
+    },
+    "stock": 78,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 93,
+    "productType": "Running",
+    "productName": "React Infinity Run Premium (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/react+infinity+run+premium.png",
+    "rating": 4.6,
+    "description": "React Infinity Run Premium women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 6900,
+      "originalPrice": 8900,
+      "currency": "INR"
+    },
+    "stock": 158,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 94,
+    "productType": "Running",
+    "productName": "Air Zoom Structure 23 SE (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+structure+23+se.png",
+    "rating": 4.6,
+    "description": "Air Zoom Structure 23 SE women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 22800,
+      "originalPrice": 29200,
+      "currency": "INR"
+    },
+    "stock": 199,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 95,
+    "productType": "Lifestyle",
+    "productName": "React Element 87 OG (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/react+element+87+og.png",
+    "rating": 4.9,
+    "description": "React Element 87 OG women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 11000,
+      "originalPrice": 14100,
+      "currency": "INR"
+    },
+    "stock": 136,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 96,
+    "productType": "Lifestyle",
+    "productName": "Killshot 2 Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/killshot+2+next+nature.png",
+    "rating": 4.8,
+    "description": "Killshot 2 Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 13600,
+      "originalPrice": 16100,
+      "currency": "INR"
+    },
+    "stock": 85,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 97,
+    "productType": "Running",
+    "productName": "Air Zoom Structure Premium (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+zoom+structure+premium.png",
+    "rating": 4.2,
+    "description": "Air Zoom Structure Premium women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 19500,
+      "originalPrice": 23100,
+      "currency": "INR"
+    },
+    "stock": 34,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 98,
+    "productType": "Air Max",
+    "productName": "Air Max Plus Next Nature (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+plus+next+nature.png",
+    "rating": 4.3,
+    "description": "Air Max Plus Next Nature women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 6500,
+      "originalPrice": 8000,
+      "currency": "INR"
+    },
+    "stock": 153,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 99,
+    "productType": "Running",
+    "productName": "ZoomX Invincible Pastel (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/zoomx+invincible+pastel.png",
+    "rating": 4.3,
+    "description": "ZoomX Invincible Pastel women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 7300,
+      "originalPrice": 8700,
+      "currency": "INR"
+    },
+    "stock": 54,
+    "quantity": 1,
+    "gender": "Women"
+  },
+  {
+    "id": 100,
+    "productType": "Air Max",
+    "productName": "Air Max Plus Retro (Women)",
+    "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/air+max+plus+retro.png",
+    "rating": 4.3,
+    "description": "Air Max Plus Retro women's shoe — designed for comfort, fit, and everyday style.",
+    "pricing": {
+      "sellingPrice": 4300,
+      "originalPrice": 5600,
+      "currency": "INR"
+    },
+    "stock": 153,
+    "quantity": 1,
+    "gender": "Women"
+  }
+]
