@@ -1,6 +1,8 @@
-"# 🛒 Sneaker E-Commerce Website
+# 🛒 TheKickShop - Sneaker E-Commerce Website
 
-A modern, fully-functional e-commerce website for sneakers built with **HTML**, **CSS**, and **Vanilla JavaScript**. Features include product browsing, cart management, wishlist functionality, and a responsive design.
+**TheKickShop** is your one-stop destination for premium sneakers from the world's top brands. Explore the latest releases from Nike, Jordan, Adidas, and more. Whether you're hunting for limited editions or classic styles, we've got the kicks you need.
+
+A modern, fully-functional e-commerce website built with **HTML**, **CSS**, and **Vanilla JavaScript**. Features include product browsing, cart management, wishlist functionality, and a responsive design.
 
 ## ✨ Features
 
@@ -90,4 +92,4 @@ Give a ⭐️ if you like this project!
 
 ---
 
-Made with ❤️ by Bhavya Soneji" 
+Made with ❤️ by Bhavya Soneji
