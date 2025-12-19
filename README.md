@@ -30,7 +30,7 @@ A modern, fully-functional e-commerce website built with **HTML**, **CSS**, and 
 ## 📂 Project Structure
 
 ```
-Website-3/
+The-Kick-Shop/
 ├── index.html              # Home page
 ├── ProductsPage.html       # Shop/Products page
 ├── AddToCartPage.html      # Shopping cart page
